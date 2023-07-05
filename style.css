@@ -11,3 +11,8 @@ h3{
   font-size: 50px;
   color: darkred;
 } 
+li {
+  color: rgb(29, 54, 3);
+  background-color: aqua; width: fit-content;
+  border-radius: 5px
+}
